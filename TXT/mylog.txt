@@ -1,6 +1,22 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 10 L03 Github related
-ZCZC W00 50 L06 Reading References/Books/Documents
-ZCZC W00 40 L26 Movie: relax, etc
+ZCZC W00  10 L03 Github related
+ZCZC W00  50 L06 Reading References/Books/Documents
+ZCZC W00  40 L26 Movie: relax, etc
+ZCZC W01 100 L02 ZOOM
+ZCZC W01  50 L11 Assignment #1
+ZCZC W01  15 L09 AsDos: asking
+ZCZC W01  30 L12 Assignment #2
+ZCZC W01  30 L13 Assignment #3
+ZCZC W01  30 L14 Assignment #4
+ZCZC W01  20 L15 Assignment #5
+ZCZC W01  20 L16 Assignment #6
+ZCZC W01  20 L17 Assignment #7
+ZCZC W01  20 L18 Assignment #8
+ZCZC W01 100 L22 YouTube: study
+ZCZC W02 100 L02 ZOOM
+ZCZC W02  10 L09 AsDos: asking
+ZCZC W02 200 L10 Assignment
+ZCZC W02 100 L22 YouTube: study
+ZCZC W02  50 L06 Reading References
