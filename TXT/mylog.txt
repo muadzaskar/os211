@@ -17,3 +17,9 @@ ZCZC W02 10 L09 AsDos: asking
 ZCZC W02 200 L10 Assignment
 ZCZC W02 100 L22 YouTube: study
 ZCZC W02 50 L06 Reading References
+ZCZC W03 100 L02 ZOOM
+ZCZC W03 30 L09 AsDos: asking
+ZCZC W03 250 L10 Assignment
+ZCZC W03 100 L22 YouTube: study
+ZCZC W03 50 L06 Reading References
+ZCZC W03 40 L26 Movie: relax, etc
