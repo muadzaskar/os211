@@ -27,3 +27,9 @@ ZCZC W04 100 L02 ZOOM
 ZCZC W04 10 L09 AsDos: asking
 ZCZC W04 100 L10 Assignment
 ZCZC W04 100 L22 YouTube: study
+ZCZC W05 100 L02 ZOOM
+ZCZC W05 15 L09 AsDos: asking
+ZCZC W05 120 L10 Assignment
+ZCZC W05 45 L22 YouTube: study
+ZCZC W05 50 L06 Reading References/Books/Documents
+ZCZC W05 40 L05 GSGS
