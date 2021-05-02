@@ -33,7 +33,11 @@ ZCZC W05 120 L10 Assignment
 ZCZC W05 45 L22 YouTube: study
 ZCZC W05 50 L06 Reading References/Books/Documents
 ZCZC W05 40 L05 GSGS
-ZCZC W05 120 L10 Assignment
-ZCZC W05 100 L22 YouTube: study,relax
-ZCZC W05 90 L06 Reading References/Books/Documents
-ZCZC W05 60 L05 GSGS
+ZCZC W06 120 L10 Assignment
+ZCZC W06 100 L22 YouTube: study,relax
+ZCZC W06 90 L06 Reading References/Books/Documents
+ZCZC W06 60 L05 GSGS
+ZCZC W07 200 L10 Assignment
+ZCZC W07 100 L22 YouTube: study,relax
+ZCZC W07 20 L06 Reading References/Books/Documents
+ZCZC W07 120 L05 GSGS
